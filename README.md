@@ -23,8 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Created connecton between "Client 1" and Domain Controller via Azure Virtual Machines.
 - Enabled firewall to allow connection and use of Domain Controller as DNS server.
 - Install Active Directory - Create an Admin and Normal User Account in AD - 
-- Create additional users and attempt to log into "Client-1" with new user, " Mark Riffalo."
-- Step 4
+- Create additional users and attempt to log into "Client-1" with new, selected user, " Mark Riffalo."
 
 <h2>Deployment and Configuration Steps</h2>
 
